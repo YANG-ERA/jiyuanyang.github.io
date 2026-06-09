@@ -27,7 +27,7 @@ Ph.D. in Statistics, School of Mathematical Sciences
 
 Co-Advisors: Tenured Assoc. Prof. Lin Liu & Prof. Xiaoqi Zheng
 
-Shanghai Normal University (SHNU) | Graduated: 2024
+Shanghai Normal University (SHNU) | Sept. 2021 - June. 2024
 
 M.S. in Probability and Statistics, College of Mathematics and Science
 
@@ -43,7 +43,7 @@ Focus: Algorithmic development and statistical analysis for single-cell and spat
 ## News
 [Sept. 2025] I started my Ph.D. journey at the School of Mathematical Sciences, SJTU!
 
-[2024] Graduated with my Master's degree from Shanghai Normal University and joined SJTU School of Medicine as a Research Assistant.
+[June. 2024] Graduated with my Master's degree from Shanghai Normal University and joined SJTU School of Medicine as a Research Assistant.
 
 
 
